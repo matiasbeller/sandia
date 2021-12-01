@@ -11,7 +11,7 @@ body{
 }
   
 header{
-  padding: 10px;
+  padding: 5px;
   background: linear-gradient(90deg, rgba(15,255,2,1) 0%, rgba(157,43,27,1) 14%, rgba(241,0,41,1) 100%);
   text-align: center;
 }
@@ -23,7 +23,7 @@ nav{
 }
 nav a{
   color: white;
-  padding: 14px 20px;
+  padding: 7px 10px;
   text-decoration: none;
 }
 
