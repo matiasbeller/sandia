@@ -80,6 +80,10 @@ footer{
 
   }
 
+  col-sm3 {
+    padding-left: 30px;
+  }
+
 
 
   @media screen and (max-width: 576px){
@@ -92,7 +96,9 @@ footer{
 
     }
 
-
+    col-sm3 {
+      padding-left: 30px;
+    }
 
   }
 
