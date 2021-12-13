@@ -73,15 +73,27 @@ footer{
 }
 
 @media screen and (max-width: 720px){
+
   nav, .row{
+
     flex-direction: column;
+
   }
 
+
+
   @media screen and (max-width: 576px){
+
     nav, .row{
+
       flex-direction: column;
+
       background-color: red;
+
     }
 
+
+
+  }
 
 }
